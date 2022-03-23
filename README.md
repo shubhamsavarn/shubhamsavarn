@@ -2,10 +2,6 @@
 <h3 align="center">A passionate fullstack developer from India</h3>
 <p align="right" width="400"> <img src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamsavarn&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamsavarn" /> </p>
-
-<p align="left"> <a href="https://twitter.com/shubhamsa" target="blank"><img src="https://img.shields.io/twitter/follow/shubhamsa?logo=twitter&style=for-the-badge" alt="shubhamsa" /></a> </p>
-
 - 🌱 I’m currently learning **NEXT JS**
 
 - 💬 Ask me about **Web Development**
@@ -32,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhamsavarn&show_icons=true&locale=en" alt="shubhamsavarn" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamsavarn&" alt="shubhamsavarn" /></p>
+
