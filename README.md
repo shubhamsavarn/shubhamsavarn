@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning **NEXT JS**
 
 - 💬 Ask me about **Web Development**
-
 - 📫 How to reach me **shubham.savarn99@gmail.com**
 
 - ⚡ Fun fact **I am funny**
